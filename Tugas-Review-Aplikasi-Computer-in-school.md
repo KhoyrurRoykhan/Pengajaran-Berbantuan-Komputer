@@ -11,3 +11,6 @@ disetiap tutorial pengguna dapat langsung **menanggapi** dengan mencoba kodenya 
 #### Turtle Academy as Tool
 Turtle Academy dapat berfungsi sebagai **alat** kode editor Python(Library Turtle). jadi selama pengguna mempelajari bahasa pemrograman tersebut pengguna tidak perlu membuka kode editor lagi untuk mencoba menjalankan programnya, program bisa langsung dijalankan di website tersebut.
 ![Tool Turtle Academy](pictures/tool_turtle_academy.png)
+
+#### Turtle Academy as Tutee
+Menggunakan komputer sebagai murid berarti menjadi tutor bagi komputer; untuk itu, siswa atau guru yang menjadi tutor harus belajar membuat program. didalam Turtle Academy pengguna bisa membuat program yang dibaca langsung oleh komputer dan menampilkan hasilnya.
